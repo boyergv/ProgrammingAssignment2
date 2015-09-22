@@ -1,5 +1,7 @@
 
-## Write a short comment describing this function
+# This function aims to take a potentially time-consuming computation and make it much faster by
+# caching the value of the inverse of a matrix, rather than making us resolve the inverse every
+# time that the inverse of the matrix is required. 
 
 # Create a Matrix
 
